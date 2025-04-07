@@ -1,0 +1,14 @@
+D:\_C# Projects\Test\Quest_2\bin\Debug\net8.0\Quest_2.exe
+D:\_C# Projects\Test\Quest_2\bin\Debug\net8.0\Quest_2.deps.json
+D:\_C# Projects\Test\Quest_2\bin\Debug\net8.0\Quest_2.runtimeconfig.json
+D:\_C# Projects\Test\Quest_2\bin\Debug\net8.0\Quest_2.dll
+D:\_C# Projects\Test\Quest_2\bin\Debug\net8.0\Quest_2.pdb
+D:\_C# Projects\Test\Quest_2\obj\Debug\net8.0\Quest_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\_C# Projects\Test\Quest_2\obj\Debug\net8.0\Quest_2.AssemblyInfoInputs.cache
+D:\_C# Projects\Test\Quest_2\obj\Debug\net8.0\Quest_2.AssemblyInfo.cs
+D:\_C# Projects\Test\Quest_2\obj\Debug\net8.0\Quest_2.csproj.CoreCompileInputs.cache
+D:\_C# Projects\Test\Quest_2\obj\Debug\net8.0\Quest_2.dll
+D:\_C# Projects\Test\Quest_2\obj\Debug\net8.0\refint\Quest_2.dll
+D:\_C# Projects\Test\Quest_2\obj\Debug\net8.0\Quest_2.pdb
+D:\_C# Projects\Test\Quest_2\obj\Debug\net8.0\Quest_2.genruntimeconfig.cache
+D:\_C# Projects\Test\Quest_2\obj\Debug\net8.0\ref\Quest_2.dll
